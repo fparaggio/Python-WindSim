@@ -1,3 +1,9 @@
+#Python-WindSim
+#==============
+#Authors: Francesco Paraggio
+#Licenced under GNU GPL V3:
+#GPLv3 (http://www.gnu.org/licenses/gpl-3.0.txt)
+
 import sys, os
 
 filePath = r'D:\junk\Baton+\BatonDBGenerator\WorkingSet\src\6.DAT'

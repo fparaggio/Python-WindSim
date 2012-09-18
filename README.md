@@ -1,6 +1,6 @@
 Python-WindSim
 ==============
-Licensed under the GPLv3:
+Copyright Francesco Paraggio 2012 - Licensed under the GPLv3:
 GPLv3 (http://www.gnu.org/licenses/gpl-3.0.txt)
 
 
